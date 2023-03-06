@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryargondal1&label=Profile%20views&color=0e75b6&style=flat" alt="shehryargondal1" /> </p>
 
-- 🔭 I’m currently working as ** Data Analytics intern at Zep Analytics and working as Student Ambassador at Cogent Labs**
+- 🔭 I’m currently working as **Data Analytics intern at Zep Analytics and working as Student Ambassador at Cogent Labs**
 
 - 🌱 I’m currently learning **Computer Vision, Natural Language Processing and Machine Learning**
 
