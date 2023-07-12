@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryargondal1&label=Profile%20views&color=0e75b6&style=flat" alt="shehryargondal1" /> </p>
 
-- 🔭 I’m currently working as **Data Analytics intern at Zep Analytics and working as Student Ambassador at Cogent Labs**
+- 🔭 I’m currently working as **Data Analyst at Upwork/Fiver and working as Student Ambassador at Cogent Labs**
 
 - 🌱 I’m currently learning **Computer Vision, Natural Language Processing and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.mavenanalytics.io/profile/Shehryar-Gondal/125923736](https://www.mavenanalytics.io/profile/Shehryar-Gondal/125923736)
 
-- 💬 Ask me about **Excel , SQL ,Python , Power Bi**
+- 💬 Ask me about **Excel , SQL ,Python , Power Bi , Machine Learning**
 
 - 📫 How to reach me **gondalshehryar23@gmail.com**
 
