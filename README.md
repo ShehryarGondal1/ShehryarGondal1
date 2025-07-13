@@ -3,7 +3,7 @@
 <p align="center">Generative AI & LLM Specialist | Automating Workflows with n8n, Make, Zapier | Building Scalable AI Systems</p>
 
 ## About Me  
-Hello! 👋 I'm a passionate AI Engineer with deep expertise in building intelligent systems that automate workflows, deliver insights, and create real business value. With 6+ years of hands-on experience, I’ve led 500+ AI, data science, and full-stack projects across finance, healthcare, eCommerce, and more.
+Hello! 👋 I'm a passionate AI Engineer with deep expertise in building intelligent systems that automate workflows, deliver insights, and create real business value.
 
 I specialize in designing **autonomous agents**, **LLM-powered tools**, and **workflow automation systems** using cutting-edge AI, modern frameworks, and integration platforms like **n8n**, **Make**, and **Zapier**.
 
@@ -39,7 +39,7 @@ Let’s innovate together — explore my work and feel free to connect! 🚀✨
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/shehryar-gondal-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/shehryargondal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:gondalshehryar23@gmail.com"><img src="https://img.shields.io/badge/Email-gondalshehryar23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
