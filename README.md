@@ -1,31 +1,101 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*XDr5hACiDTz53zhsNuKIEQ.png)](https://ShehryarGondal1.io)
-<h1 align="center">Hi 👋, I'm Shehryar Gondal </h1>
-<h3 align="center">A passionate Data Analyst / Data Scientist from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryargondal1&label=Profile%20views&color=0e75b6&style=flat" alt="shehryargondal1" /> </p>
+<h1 align="center">Hi 👋, I'm Shehryar Gondal</h1>
 
-- 🔭 I’m currently working as **Data Analyst at Upwork/Fiver and working as Student Ambassador at Cogent Labs**
+<p align="center"><strong>Generative AI & LLM Specialist (LangChain, RAG, GPT Integrations)</strong></p>
+<p align="center">AI Engineer & Full-Stack Developer | Automating businesses with n8n, Make, Zapier, and scalable GenAI systems</p>
 
-- 🌱 I’m currently learning **Computer Vision, Natural Language Processing and Machine Learning**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.mavenanalytics.io/profile/Shehryar-Gondal/125923736](https://www.mavenanalytics.io/profile/Shehryar-Gondal/125923736)
+## 🚀 About Me
 
-- 💬 Ask me about **Excel , SQL ,Python , Power Bi , Machine Learning**
+Struggling with manual workflows, disconnected tools, or slow business processes?
 
-- 📫 How to reach me **gondalshehryar23@gmail.com**
+I help startups and enterprises unlock the power of **AI and automation** — transforming data into insights, and processes into autonomous pipelines. Whether it’s building AI copilots, integrating GPT into your workflows, or connecting 10+ tools through **n8n**, **Make**, or **Zapier**, I deliver results that are scalable and real.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shehryar-gondal-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shehryar-gondal-data-analyst" height="30" width="40" /></a>
+From eCommerce to healthcare, I’ve architected and delivered **hundreds of AI-driven solutions** that automate, predict, and empower decision-making.
+
+---
+
+## 🧠 What I Do
+
+### ✅ Automation & Workflow Integration
+- Expert in **n8n**, **Make (Integromat)**, **Zapier**
+- Automated workflows for CRMs, SaaS apps, Notion, Google Sheets, HubSpot, Salesforce
+- Web scraping + data pipelines using Playwright, Selenium, BeautifulSoup
+
+### ✅ Generative AI & LLMs
+- Custom GPT integrations using **LangChain**, **LlamaIndex**, **LangGraph**, **OpenAI**, **Claude**, **Gemini**, and **Mistral**
+- Building AI assistants, RAG pipelines, copilots, knowledge bots, and intelligent search engines
+
+### ✅ Agentic AI & Autonomous Agents
+- AutoGPT / BabyAGI-style agents with LangSmith, OpenInterpreter
+- Self-operating AI systems that can plan and complete complex tasks on their own
+
+### ✅ AI & Machine Learning
+- ML solutions using PyTorch, TensorFlow, Scikit-learn, LightGBM, XGBoost
+- Predictive models, anomaly detection, NLP, computer vision
+
+### ✅ NLP & Conversational AI
+- Text classification, summarization, semantic search, QA, translation
+- Technologies: GPT, T5, RoBERTa, BERT, Pegasus
+
+### ✅ Computer Vision & OCR
+- Object detection (YOLOv8), segmentation (Mask R-CNN), OCR (Tesseract, OpenCV, Detectron2)
+
+### ✅ Speech & Audio AI
+- Whisper, ElevenLabs, DeepSpeech for transcription & TTS
+- Real-time video/audio analysis and voice assistants
+
+### ✅ Full-Stack & Backend Development
+- Backend APIs with FastAPI, Flask, Django, Node.js, Express
+- Frontend interfaces with React, Next.js, Svelte
+- Cloud deployments with AWS, Azure, Firebase, Docker, Kubernetes
+
+### ✅ Dashboards & Visualization
+- Interactive dashboards with Dash, Plotly, Tableau, Power BI, and Streamlit
+
+### ✅ Data Engineering & Big Data
+- ETL pipelines using Airflow, Prefect, dbt, Spark, Delta Lake
+- Databases: MongoDB, PostgreSQL, BigQuery, Snowflake
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" width="50"/>
+  <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="80"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="100"/>
+  <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="100"/>
+  <img src="https://seeklogo.com/images/N/n8n-logo-60B22261EF-seeklogo.com.png" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" width="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Make.com_logo.svg/512px-Make.com_logo.svg.png" width="100"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehryargondal1&show_icons=true&locale=en&layout=compact" alt="shehryargondal1" /></p>
+## 💡 Why Work With Me?
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehryargondal1&show_icons=true&locale=en" alt="shehryargondal1" /></p>
+✔️ Proven expertise in real-world GPT, LLM, and automation solutions  
+✔️ Deep understanding of both business processes and AI pipelines  
+✔️ End-to-end support: Idea → Development → Deployment  
+✔️ Fast, clean code with transparent communication  
+✔️ Flexible pricing and team scaling for any size project
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehryargondal1&" alt="shehryargondal1" /></p>
+---
 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/shehryar-gondal-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:gondalshehryar23@gmail.com"><img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+---
+
+_Ready to automate your business and build smarter, AI-powered workflows?_  
+Let’s connect and make it happen. 🚀
 
